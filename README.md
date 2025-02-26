@@ -1,2 +1,2 @@
 # COT20000_125
-Foundations of Computing
+A repository to keep COT2000 labs code.
